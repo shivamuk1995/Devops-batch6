@@ -1,5 +1,6 @@
 this is a file we are adding today
 
+s this is a new version of command .txt
 
 
 
